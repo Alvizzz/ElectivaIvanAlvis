@@ -1,0 +1,110 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+@font-face {
+    font-family: Agrandir;
+    src: url('../Fonts/Agrandir/Agrandir-GrandHeavy.otf');
+}
+
+@font-face {
+    font-family: Bogam;
+    src: url('../Fonts/Bogam/Bogam.ttf');
+}
+
+@font-face {
+    font-family: Bold_Summer;
+    src: url('../Fonts/Bold_Summer/BoldSummerFree.ttf');
+}
+
+@font-face {
+    font-family: Caprasimo;
+    src: url('../Fonts/Caprasimo/Caprasimo-Regular.ttf');
+}
+
+@font-face {
+    font-family: Eskool;
+    src: url('../Fonts/Eskool/Eskool-Regular.ttf');
+}
+
+@font-face {
+    font-family: Magic_Prince;
+    src: url('../Fonts/Magic_Prince/magicprincepersonaluseonly-wyb7y.otf');
+}
+
+@font-face {
+    font-family: Neue_World;
+    src: url('../Fonts/Neue_World/PPNeueWorld-CondensedRegular.otf');
+}
+
+@font-face {
+    font-family: Space_Grotesk;
+    src: url('../Fonts/Space_Grotesk/SpaceGrotesk-Regular.ttf');
+}
+
+@font-face {
+    font-family: Sunflower;
+    src: url('../Fonts/Sunflower/Sunflower.otf');
+}
+
+@font-face {
+    font-family: Switzer;
+    src: url(../Fonts/Switzer/Switzer-Regular.ttf);
+}
+
+.Font_agrandir{
+
+    font-family: 'Agrandir';
+}
+
+.Font_Bogam{
+
+    font-family: 'Bogam';
+}
+
+.Font_Bold_Summer{
+
+    font-family: 'Bold_Summer';
+}
+
+.Font_Eskool{
+
+    font-family: 'Eskool';
+}
+
+.Font_Magic_Prince{
+
+    font-family: 'Magic_Prince';
+}
+
+.Font_Neue_World{
+
+    font-family: 'Neue_World';
+}
+
+.Font_Space_Grotesk{
+
+    font-family: 'Space_Grotesk';
+}
+
+.Font_Sunflower{
+    font-family: 'Sunflower';
+}
+
+.Font_Switzer{
+    font-family: 'Switzer';
+}
+
+.titulos{
+
+    font-family: 'Sunflower';
+    color: #da1a29;
+
+}
+
+.subtitulos{
+
+    font-family: 'Sunflower';
+    color: #ffebb9;
+
+}
